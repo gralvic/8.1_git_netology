@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for number in {1..200}
+for number in {1..1000}
 do
     if [ $((number%3)) -eq 0 ]
     then
